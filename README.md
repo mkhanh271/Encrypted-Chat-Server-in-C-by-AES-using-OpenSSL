@@ -191,17 +191,6 @@ This confirms the messages are fully encrypted on the wire and cannot be interce
 
 ---
 
-## .gitignore Recommendation
-
-```gitignore
-# Private key — never commit this
-key.pem
-
-# Compiled binaries
-ssl-server
-ssl-client
-```
-
 ---
 
 ## References
