@@ -66,8 +66,6 @@ This project demonstrates a **TLS-encrypted TCP chat** between a server and a cl
 └── README.md
 ```
 
-> ⚠️ **Never upload `key.pem` to a public GitHub repository.** Add it to `.gitignore`.
-
 ---
 
 ## Requirements
