@@ -1,4 +1,4 @@
-# Encrypted-Chat-Server-in-C-by-AES-using-OpenSSL
+# Encrypted-Chat-Server-in-C-by-RSA-using-OpenSSL
 
 > A secure real-time chat application implemented in C, establishing an **SSL/TLS encrypted connection** between a client and server using **OpenSSL**. Traffic is fully encrypted — verified via Wireshark packet capture showing no plaintext data in transit.
 
